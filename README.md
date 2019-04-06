@@ -1,2 +1,2 @@
 # rock-paper-scissors
-an traditional game
+a traditional game
